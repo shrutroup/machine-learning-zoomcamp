@@ -1,0 +1,8 @@
+README.md
+ping.py
+pyproject.toml
+05_deployment.egg-info/PKG-INFO
+05_deployment.egg-info/SOURCES.txt
+05_deployment.egg-info/dependency_links.txt
+05_deployment.egg-info/requires.txt
+05_deployment.egg-info/top_level.txt
